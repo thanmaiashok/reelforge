@@ -1,0 +1,6 @@
+[
+  {"id":"tpl_hook_full_bleed","name":"full_bleed_hook","use_stage":"hook","layout":"full_bleed","caption_style_ref":"bold_yellow_pop","notes":"default hook layout, motion/face in frame 1-3 per planner.md P4"},
+  {"id":"tpl_split_reaction","name":"split_screen_reaction","use_stage":"build","layout":"split_top_bottom","caption_style_ref":"bold_yellow_pop","notes":"pair with high-energy meme clip, 1.5-2.5s hold"},
+  {"id":"tpl_pip_cutaway","name":"pip_bottom_right_cutaway","use_stage":"punchline","layout":"pip_bottom_right","caption_style_ref":"bold_yellow_pop","notes":"small pip reaction over main footage, punchline emphasis"},
+  {"id":"tpl_cta_full_bleed","name":"full_bleed_cta","use_stage":"cta","layout":"full_bleed","caption_style_ref":"bold_yellow_pop","notes":"final 2-4s follow/comment/share prompt"}
+]

@@ -1,0 +1,7 @@
+[
+  {"id":"mv_0001","language":"english","category":"movie_viral","mood":["dramatic","hype"],"format":"dialogue_reaction","duration_hint_sec":2.5,"usage_notes":"iconic hollywood line callback, punchline only, trim to <=3s per planner.md P12","source_type":"reference_link_only","source_path":null,"reference_url":null,"tags":["timing:punchline","energy:high"]},
+  {"id":"mv_0002","language":"english","category":"movie_viral","mood":["comedic"],"format":"reaction_cutaway","duration_hint_sec":2.0,"usage_notes":"confused/side-eye cut","source_type":"reference_link_only","source_path":null,"reference_url":null,"tags":["timing:build","energy:medium"]},
+  {"id":"mv_0003","language":"english","category":"movie_viral","mood":["sarcastic"],"format":"dialogue_reaction","duration_hint_sec":2.2,"usage_notes":"sarcastic clap-back line","source_type":"reference_link_only","source_path":null,"reference_url":null,"tags":["timing:punchline","energy:medium"]},
+  {"id":"mv_0004","language":"english","category":"movie_viral","mood":["dramatic"],"format":"reaction_cutaway","duration_hint_sec":1.8,"usage_notes":"slow zoom shock face","source_type":"reference_link_only","source_path":null,"reference_url":null,"tags":["timing:build","energy:medium"]},
+  {"id":"mv_0005","language":"english","category":"movie_viral","mood":["comedic","hype"],"format":"dialogue_reaction","duration_hint_sec":2.5,"usage_notes":"triumphant one-liner, good pre-CTA","source_type":"reference_link_only","source_path":null,"reference_url":null,"tags":["timing:punchline","energy:high"]}
+]
