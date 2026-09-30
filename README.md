@@ -1,4 +1,5 @@
 <p align="center"><img src="docs/flow.svg" alt="Animated ReelForge pipeline: Intake → Plan → Fetch → Retrieve → Assemble → Caption → Score → Render → QA" width="100%"/></p>
+
 <p align="center"><sub>10-second tour: Intake → Plan → Fetch → Retrieve → Assemble → Caption → Score → Render → QA</sub></p>
 
 <p align="center"><img src="docs/mc/intro.svg" width="100%" alt="Autonomous shorts-editing agent. Claude Code is the reasoning engine: no third-party LLM API calls anywhere. Tool access only: bash, ffmpeg, local Whisper, yt-dlp and the filesystem."/></p>
